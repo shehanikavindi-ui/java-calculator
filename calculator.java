@@ -106,7 +106,7 @@ class cal implements ActionListener {
         b5.setBorder(BorderFactory.createEmptyBorder()); 
         b5.setFocusPainted(false);
 
-        b6 = new JButton(“x\u00B2”);
+        b6 = new JButton("x\u00B2");
         b6.setFont(f4);
         b6.setBackground(Color.decode("#fcf0f4"));
         b6.setBorder(BorderFactory.createEmptyBorder()); 
